@@ -14,7 +14,7 @@
     font-weight: 500;
     margin: 1em 0;
 .banner__pesquisa {
-    background-color: #FFFFFF;
+    background-color: (transparente);
     border: 1px solid var(--branco);
     color: var(--branco);
     border-radius: 24px;
